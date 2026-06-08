@@ -1,5 +1,7 @@
 # cyber-kantics
 
+![cyber-kantics banner](banner.png)
+
 A Claude **skill** that decomposes a product, feature, protocol, or growth loop into the philosophical *thinking-machine* types it actually runs on — **Cartesian, Humean, Kantian, decisionist, Girardian** — surfaces the **hidden machine** (the logic actually driving behavior, which is rarely the one the builder intended), names the failure loop, and prescribes how to recompose the stack.
 
 It is a diagnostic lens for incentive design: tokenomics, fee/loyalty/VIP mechanics, recommender and feed logic, engagement and status loops, referral mechanics, agent behavior — anything that shapes desire.

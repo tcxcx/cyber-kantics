@@ -19,6 +19,8 @@ description: >-
 
 # Cyber-Kantics
 
+![Cyber-Kantics banner](banner.png)
+
 A diagnostic lens for products and protocols. It treats every behavior-shaping
 system as a stack of **thinking-machines**, each defined by *how it relates
 desire/data to action*. The point is not to label things cutely — it is to
